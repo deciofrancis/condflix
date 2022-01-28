@@ -9,3 +9,6 @@ Recriar a interface da NETFLIX. Mas foi feita uma adaptação e foi criado a CON
  - CSS3
  - JavaScript
  - Jquery - utilizado no carrocel, o plugin [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/) 
+
+## Print do projeto
+<img alt="screenshot" src="https://github.com/deciofrancis/condflix/blob/main/img/screenshot.jpg">
